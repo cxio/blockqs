@@ -1,6 +1,7 @@
 {
-    serve_port: 8899,           // 服务端口
-    storage_root: "./_data",    // 数据存档根目录
+    serve_port: 8899,           // 对外服务端口
+    archive_port: 18899,        // 存档服务端口（内部）
+    blocks_root: "./_data",     // 区块存档根目录
     language: "en",             // 用户UI语言，格式：zh, zh-CN
     log_level: "info",          // 日志级别，支持：debug, info, warn, error
     log_root: "./_logs",        // 日志存储根路径
