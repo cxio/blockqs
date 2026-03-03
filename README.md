@@ -1,6 +1,6 @@
 # 区块查询服务
 
-设计细节详见 [design](docs/design.md)。
+详细设计请参考 [design](conception/design.md)。
 
 
 ## 安装
